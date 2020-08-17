@@ -2,8 +2,8 @@
 title: How To Wear Bright Shoes TESTING
 date: 2018-09-24T11:07:10.000+06:00
 author: Mark Dinn
-image: images/blog/blog-post-5.jpg
-bg_image: images/featue-bg.jpg
+image: "/images/gacela.png"
+bg_image: "/images/gacela.png"
 categories:
 - Artificial Intelligence
 tags:
